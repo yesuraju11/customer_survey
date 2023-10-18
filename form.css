@@ -1,0 +1,55 @@
+body
+{
+    background-color: aqua;
+}
+h4
+{
+    text-align: center;
+}
+.container
+{
+    background-color: aqua;
+    padding:5%;
+}
+#box
+{
+    background-color:white;
+    padding: 2%;
+    width: 55%;
+    margin-left: 23%;
+    
+}
+
+fieldset
+{
+    width: 90%;
+}
+#box1
+{
+   display: flex;
+   justify-content: center;
+   width: 90%;
+}
+#box2
+{
+    width: 80%;
+   
+}
+
+#alert
+{
+    background-color:cornsilk;
+    border-radius: 5%;
+    width: 50%;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+#close
+{
+    margin-left: 80%;
+    margin-top: 5%;
+}
+
